@@ -1,12 +1,12 @@
 "use client";
 
 import { useState, useRef } from "react";
-import { motion, AnimatePresence, useScroll, useTransform, useSpring } from "framer-motion";
+import { motion, AnimatePresence, useScroll, useTransform, useSpring, type Transition } from "framer-motion";
 import { Upload, ChevronRight, Cpu, Eye, ShieldAlert, Fingerprint } from "lucide-react";
 import axios from "axios";
 
-const slowSpring = { type: "spring", stiffness: 50, damping: 20, restDelta: 0.001 };
-const fastSpring = { type: "spring", stiffness: 200, damping: 25 };
+const slowSpring: Transition = { type: "spring", stiffness: 50, damping: 20, restDelta: 0.001 };
+const fastSpring: Transition = { type: "spring", stiffness: 200, damping: 25 };
 
 // ----------------------------------------------------
 // COMPONENTS
