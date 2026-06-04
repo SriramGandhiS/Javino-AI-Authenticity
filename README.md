@@ -20,7 +20,7 @@ A forensic analysis platform that detects AI-generated media, deepfakes, and syn
 - [License](#license)
 
 ---
-
+i c
 ## 🎯 Overview
 
 **Javino** is an enterprise-grade forensic analysis platform designed to authenticate media in real-time. Using a proprietary **4-Layer Analysis Engine**, it combines:
@@ -402,3 +402,4 @@ For licensing inquiries, contact **[Sriram S](https://sriram.website/)**.
 
 **Last Updated:** May 2026  
 **Version:** 1.0.0
+ 
