@@ -1,4 +1,4 @@
-# 🛡️ Javino — AI Media Authenticity Engine
+﻿# 🛡️ Javino — AI Media Authenticity Engine
 
 A forensic analysis platform that detects AI-generated media, deepfakes, and synthetic manipulations using advanced vision AI, metadata forensics, and LLM-powered analysis.
 
@@ -402,4 +402,4 @@ For licensing inquiries, contact **[Sriram S](https://sriram.website/)**.
 
 **Last Updated:** May 2026  
 **Version:** 1.0.0
-      
+       
