@@ -1,4 +1,4 @@
-# 🛡️ Javino — AI Media Authenticity Engine
+# Javino — AI Media Authenticity Engine
 
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.2-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot)
 [![Next.js](https://img.shields.io/badge/Next.js-16-black?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org)
@@ -12,7 +12,7 @@ A forensic analysis platform that detects AI-generated media, deepfakes, and syn
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [Overview](#overview)
 - [Architecture](#architecture)
@@ -27,7 +27,7 @@ A forensic analysis platform that detects AI-generated media, deepfakes, and syn
 
 ---
 
-## 🎯 Overview
+## Overview
 
 **Javino** is an enterprise-grade forensic analysis platform designed to authenticate media in real-time. Using a proprietary **4-Layer Analysis Engine**, it combines:
 
@@ -45,7 +45,7 @@ The system is optimized for:
 
 ---
 
-## 🏗️ Architecture
+## Architecture
 
 ```
 ┌─────────────────────────────────────────────────┐
@@ -81,7 +81,7 @@ The system is optimized for:
 
 ---
 
-## ✨ Features
+## Features
 
 | Feature | Details |
 |---------|---------|
@@ -96,7 +96,7 @@ The system is optimized for:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Layer | Technology |
 |-------|------------|
@@ -109,7 +109,7 @@ The system is optimized for:
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 
@@ -149,7 +149,7 @@ Visit **http://localhost:3000** in your browser.
 
 ---
 
-## 📂 Installation & Setup
+## Installation & Setup
 
 ### Step 1: Clone the Repository
 ```bash
@@ -229,7 +229,7 @@ npm run dev
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 Javino-AI-Authenticity/
@@ -271,7 +271,7 @@ Javino-AI-Authenticity/
 
 ---
 
-## 🔌 API Documentation
+## API Documentation
 
 ### Backend API Endpoints
 
@@ -299,7 +299,7 @@ For detailed AI service documentation, see [ai-service/README.md](./ai-service/R
 
 ---
 
-## 🔧 Development
+## Development
 
 ### Running Tests
 
@@ -339,23 +339,23 @@ npm start
 
 ---
 
-## 📋 Module Breakdown
+## Module Breakdown
 
-### 🧠 [AI Service](./ai-service/README.md)
+### [AI Service](./ai-service/README.md)
 The forensic vision core using Groq's Llama models:
 - EXIF metadata extraction & validation
 - Vision-based artifact detection (Llama-4-Scout)
 - Multi-signal fusion & weighting
 - Natural language report generation (Llama-3.3-70B)
 
-### 🛡️ [Backend](./backend/README.md)
+### [Backend](./backend/README.md)
 Enterprise orchestration layer:
 - User authentication & RBAC
 - Media upload & persistence
 - Service orchestration
 - Report storage & retrieval
 
-### ✨ [Frontend](./frontend/README.md)
+### [Frontend](./frontend/README.md)
 Premium forensic interface:
 - Real-time analysis visualization
 - Responsive design for mobile & desktop
@@ -364,7 +364,7 @@ Premium forensic interface:
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 This is **proprietary software**. Unauthorized distribution, modification, or use is prohibited.
 
@@ -376,7 +376,7 @@ For authorized collaborators:
 
 ---
 
-## 📜 License
+## License
 
 **Proprietary Software** — All rights reserved.
 
@@ -386,7 +386,7 @@ For licensing inquiries, contact **[Sriram S](https://sriram.website/)**.
 
 ---
 
-## 📧 Support & Contact
+## Support & Contact
 
 - **Author**: Sriram S
 - **Website**: [sriram.website](https://sriram.website/)
@@ -394,7 +394,7 @@ For licensing inquiries, contact **[Sriram S](https://sriram.website/)**.
 
 ---
 
-## 🎯 Roadmap
+## Roadmap
 
 - [ ] Batch analysis API for bulk uploads
 - [ ] Enhanced deepfake detection algorithms
