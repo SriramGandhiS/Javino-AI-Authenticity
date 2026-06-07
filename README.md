@@ -8,7 +8,7 @@
 
 A forensic analysis platform that detects AI-generated media, deepfakes, and synthetic manipulations using advanced vision AI, metadata forensics, and LLM-powered analysis.
 
-**Built by [Sriram Gandhi S](https://sriram.website/)** • **Proprietary Software**
+**Built by [Sriram S](https://sriram.website/)** • **Proprietary Software**
 
 ---
 
@@ -31,17 +31,17 @@ A forensic analysis platform that detects AI-generated media, deepfakes, and syn
 
 **Javino** is an enterprise-grade forensic analysis platform designed to authenticate media in real-time. Using a proprietary **4-Layer Analysis Engine**, it combines:
 
-- **EXIF Metadata Forensics** — Hardware signatures and timestamp verification
-- **Vision AI Analysis** — Anatomical and artifact detection using Llama-4-Scout
-- **Multi-Signal Fusion** — Weighted analysis combining metadata and vision signals
-- **LLM-Powered Reports** — Human-readable verdicts via Llama-3.3-70B
+- EXIF Metadata Forensics — Hardware signatures and timestamp verification
+- Vision AI Analysis — Anatomical and artifact detection using Llama-4-Scout
+- Multi-Signal Fusion — Weighted analysis combining metadata and vision signals
+- LLM-Powered Reports — Human-readable verdicts via Llama-3.3-70B
 
 The system is optimized for:
-- ✅ Deepfake detection
-- ✅ AI-generated image identification
-- ✅ Facial manipulation forensics
-- ✅ Document fraud detection (IDs, passports)
-- ✅ Legal/corporate authenticity auditing
+- Deepfake detection
+- AI-generated image identification
+- Facial manipulation forensics
+- Document fraud detection (IDs, passports)
+- Legal/corporate authenticity auditing
 
 ---
 
